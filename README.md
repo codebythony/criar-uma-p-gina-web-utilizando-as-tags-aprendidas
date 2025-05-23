@@ -22,9 +22,9 @@ A página criada apresenta:
 
 ## 📁 Estrutura do Projeto
 
-📂 _Site
-├── criar-uma-página-web-utilizando-as-tags-aprendidas.html
-└── README.md
+📂 _Site<br>
+├── criar-uma-página-web-utilizando-as-tags-aprendidas.html<br>
+└── README.md<br>
 
 
 ---
