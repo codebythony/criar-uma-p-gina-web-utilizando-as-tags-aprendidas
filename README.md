@@ -38,6 +38,9 @@ A página criada apresenta:
 
 2.Abra o arquivo .html no seu navegador de preferência.
 
-✍️ Autor
-Feito com dedicação por codebythony 🚀
-📌 Desafio do curso da DIO.me
+---
+
+## ✍️ Autor
+
+Feito com dedicação por **codebythony** 🚀  
+📌 Desafio do curso da **DIO.me**
